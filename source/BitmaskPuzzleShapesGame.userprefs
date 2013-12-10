@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Actual2dTest/Unity/Assets/Scripts/Grid.cs">
+    <Files>
+      <File FileName="../Actual2dTest/Unity/Assets/Scripts/Grid.cs" Line="31" Column="4" />
+      <File FileName="../Actual2dTest/Unity/Assets/Scripts/AnimationCreator.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,59 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArenaGame/ArenaGamePage.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LeaderboardTestPage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FTextBox.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HighScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Futile/Rix/Editor/RXWatcherLinkEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Futile/Rix/Editor/RXProfilerEditor.cs" Line="1" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/Versions/3.2.3/lib/mono/4.0/Microsoft.Common.targets" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AbstractPage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main.cs" Line="56" Column="20" />
+      <File FileName="Assets/Scripts/ParseTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ArenaGame/ArenaGamePage.cs" Line="118" Column="41" />
+      <File FileName="Assets/Futile/Core/FAtlas.cs" Line="1" Column="1" />
+      <File FileName="Assets/Futile/Core/FAtlasManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Futile/Futile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Futile/Core/FScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Futile/Core/FutileParams.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ArenaGame/ArenaMan.cs" Line="53" Column="22" />
+      <File FileName="Assets/Futile/Display/FNode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ArenaGame/Structs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CellularAutomatonPage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Physics/WTPhysicsNode.cs" Line="36" Column="34" />
+      <File FileName="Assets/Scripts/Physics/WTPhysicsComponent.cs" Line="73" Column="17" />
+      <File FileName="Assets/Scripts/Physics/WTMovingObject.cs" Line="19" Column="37" />
+      <File FileName="Assets/Scripts/Physics/WTPhysicsRay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Physics/WTWall.cs" Line="18" Column="40" />
+      <File FileName="Assets/Scripts/WTConfig.cs" Line="12" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Futile" expanded="True" selected="True">
+                <Node name="Display" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="ArenaGame" expanded="True" />
+                <Node name="Physics" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

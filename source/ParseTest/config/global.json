@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Pivvot": {
+            "applicationId": "oMuPg7Wh3KFCQXA9qLwdLHFZdoJOiiQ7WHxO2N0O", 
+            "masterKey": "5iYDDqalr4kejgUOdV6buc8NEpgs6BZF6obrFctC"
+        }, 
+        "_default": {
+            "link": "Pivvot"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}

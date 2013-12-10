@@ -1,0 +1,11 @@
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/UnityEngine.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/UnityEditor.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/GoKit.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/nunit.framework.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/obj/Debug/Assembly-CSharp.dll
+/Users/wtrebella/Repos/TutorialMessaround/Unity/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/wtrebella/Repos/TutorialMessaround/Unity/Temp/bin/Debug/Parse.Unity.dll

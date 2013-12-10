@@ -1,0 +1,116 @@
+{"frames": {
+
+"WhiteBox.png":
+{
+	"frame": {"x":48,"y":218,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"arrow.psd":
+{
+	"frame": {"x":80,"y":208,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":18,"h":24},
+	"sourceSize": {"w":29,"h":29}
+},
+"caret.psd":
+{
+	"frame": {"x":2,"y":218,"w":14,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":8,"w":14,"h":34},
+	"sourceSize": {"w":22,"h":50}
+},
+"circle.psd":
+{
+	"frame": {"x":2,"y":52,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":66,"h":66},
+	"sourceSize": {"w":75,"h":75}
+},
+"dirtTile.psd":
+{
+	"frame": {"x":66,"y":208,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"lineTileCorner.psd":
+{
+	"frame": {"x":16,"y":218,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":50,"h":50}
+},
+"lineTileCross.psd":
+{
+	"frame": {"x":2,"y":168,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"lineTileLine.psd":
+{
+	"frame": {"x":52,"y":168,"w":14,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":14,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"lineTileNub.psd":
+{
+	"frame": {"x":66,"y":168,"w":30,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":30,"h":40},
+	"sourceSize": {"w":50,"h":50}
+},
+"lineTileOutline.psd":
+{
+	"frame": {"x":2,"y":118,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"lineTileThreeway.psd":
+{
+	"frame": {"x":52,"y":118,"w":32,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":32,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"man.psd":
+{
+	"frame": {"x":80,"y":232,"w":8,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":14},
+	"sourceSize": {"w":7,"h":14}
+},
+"textBoxBackground.psd":
+{
+	"frame": {"x":2,"y":2,"w":250,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":50},
+	"sourceSize": {"w":250,"h":50}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "GameAtlas_Scale1.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f517dc9aecbdb755edf5ae8b8fbf81d$"
+}
+}

@@ -1,0 +1,28 @@
+{"frames": {
+
+"Cubano_InnerShadow_Scale4.png":
+{
+	"frame": {"x":3,"y":669,"w":506,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":506,"h":362},
+	"sourceSize": {"w":512,"h":512}
+},
+"FranchiseFont_Scale4.png":
+{
+	"frame": {"x":3,"y":3,"w":992,"h":662},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":992,"h":662},
+	"sourceSize": {"w":1024,"h":1024}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "UIFonts_Scale4.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c49734b9cb9ac669432e95f623cde7ee$"
+}
+}
